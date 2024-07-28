@@ -1,2 +1,4 @@
 # odinproject
-Exercises of Odin Project
+
+Solved exercises of Odin Project
+Ruby & Ruby and Rails path
